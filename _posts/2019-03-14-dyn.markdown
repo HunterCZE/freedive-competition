@@ -1,0 +1,13 @@
+---
+title: DNF / DYNB / DYN
+subtitle: Dynamic disciplines
+layout: default
+modal-id: 2
+date: 2019-03-14
+img: dyn.jpg
+thumbnail: dyn.jpg
+alt: image-alt
+ot-time: "DNF: Saturday, 14:15; DYN: Sunday, 09:30; DYNB: Sunday, 12:30"
+description: We offer a 50 m long olympic swimming pool with a constant depth of 2m. There will be two concurrent competition lanes and athletes can surface on the pool walls. DNF will take place on Saturday afternoon, DYN on Sunday morning followed by DYNB on Sunday afternoon. It will not be possible to switch disciplines in order to have the same conditions for all athletes.
+
+---

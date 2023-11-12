@@ -1,64 +1,64 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: http://www.hydro-dynamic.at
+baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: AIDA Hydro Dynamic 2023
+email: competition@aida-austria.at
+description: "Freediving championships in Austria: 21st-22nd of October 2023 at the BSFZ Südstadt"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Katrin Musil
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: Organizer
 
-- name: Larry Parker
+- name: Arno Mayrhofer
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: "Organizer | <a href=\"mailto:competition@aida-austria.at\">Contact</a>"
 
-- name: Diana Petersen
+- name: Christian "Rossi" Fötinger
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Head judge
+
+- name: Eva Fröstl
+  pic: 8
+  position: Judge
+
+- name: Maja Bozicek
+  pic: 5
+  position: Judge
+
+- name: Henriette Kissling
+  pic: 6
+  position: Judge
+
+- name: Alice Ruf
+  pic: alice_ruf
+  position: Medic
+
+#- name: Roswitha Prohaska
+#  pic: 7
+#  position: Medic
+#
+#- name: Wilhelm Welslau
+#  pic: 9
+#  position: Medic
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/aidaaustria
+  - title: instagram
+    url: https://www.instagram.com/aida_austria_
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://facebook.com/aida.austria
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: A.I.D.A. Austria
+  - line: Schlossergasse 3
+  - line: 6020 Innsbruck
 
 # Build settings
 markdown: kramdown
