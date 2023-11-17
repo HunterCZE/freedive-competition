@@ -7,6 +7,6 @@ date: 2019-03-15
 img: sta.jpg
 thumbnail: sta.jpg
 alt: image-alt
-ot-time: "First OT: Day 1, 11:30"
-description: Lying in the water for as long as you can without moving? Much more fun if you can do it in a 31° warm pool. 4 competitions zones, each with its own warm-up zone will ensure a smooth and relaxing attempt for everyone.
+ot-time: "First OT: 10:00"
+description: Lying in the water for as long as you can without moving? Much more fun if you can do it in a 32° warm pool. 3 competitions zones, each with its own warm-up zone will ensure a smooth and relaxing attempt for everyone.
 ---
