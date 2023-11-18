@@ -9,33 +9,33 @@ description: "Freediving championships in Austria: 21st-22nd of October 2023 at 
 
 # Team names, titles and social links
 people:
-- name: Katrin Musil
+- name: Já
   pic: 1
   position: Organizer
 
-- name: Arno Mayrhofer
-  pic: 2
-  position: "Organizer | <a href=\"mailto:competition@aida-austria.at\">Contact</a>"
+# - name: Arno Mayrhofer
+#   pic: 2
+#   position: "Organizer | <a href=\"mailto:competition@aida-austria.at\">Contact</a>"
 
-- name: Christian "Rossi" Fötinger
-  pic: 3
-  position: Head judge
+# - name: Christian "Rossi" Fötinger
+#   pic: 3
+#   position: Head judge
 
-- name: Eva Fröstl
-  pic: 8
-  position: Judge
+# - name: Eva Fröstl
+#   pic: 8
+#   position: Judge
 
-- name: Maja Bozicek
-  pic: 5
-  position: Judge
+# - name: Maja Bozicek
+#   pic: 5
+#   position: Judge
 
-- name: Henriette Kissling
-  pic: 6
-  position: Judge
+# - name: Henriette Kissling
+#   pic: 6
+#   position: Judge
 
-- name: Alice Ruf
-  pic: alice_ruf
-  position: Medic
+# - name: Alice Ruf
+#   pic: alice_ruf
+#   position: Medic
 
 #- name: Roswitha Prohaska
 #  pic: 7
