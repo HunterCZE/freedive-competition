@@ -12,6 +12,15 @@ people:
 - name: Já
   pic: 1
   position: Organizer
+- name: Zdeňka Hildová
+  pic: 2
+  position: Vendula Strachotová
+- name: Já
+  pic: 2
+  position: Michal Bavor
+- name: Já
+  pic: 2
+  position: Daniel Doktor
 
 # - name: Arno Mayrhofer
 #   pic: 2
@@ -47,10 +56,6 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/aidaaustria
-  - title: instagram
-    url: https://www.instagram.com/aida_austria_
   - title: facebook
     url: https://facebook.com/aida.austria
 

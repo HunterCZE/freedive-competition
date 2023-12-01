@@ -1,6 +1,6 @@
 ---
-title: Rules
-subtitle: Terms and conditions in detail
+title: Pravidla
+subtitle: 
 layout: default
 modal-id: 3
 date: 2019-03-13
@@ -10,26 +10,9 @@ alt: image-alt
 ot-time: 
 description: "
     <ul style=\"text-align:left\">
-        <li>Minimum age: 18 years (age 16 and up only with signature of parent or guardian)
-        <li>Signed medical certificate (English or German) issued by a physician authorized by law certifying that there are no counter indications to the practice of freediving, no older than 12 months.
-        <li>Each athlete must be member of A.I.D.A. International. Ensure you are registered on the <a href=\"http://www.aidainternational.org\" target=\"_blank\">website</a>.
-        <li>If you are not member of A.I.D.A. International you must pay an additonal 5€ (total 100€) and you will become member of A.I.D.A Austria until end of 2023. Note, this is only available for Austrian citizens.
-        <li>Only coated weights are allowed in the swimming pool. This will be checked during registration.
-        <li>Participation fee needs to be transferred until October 1st, 2023, otherwise the registration is not valid.
-        <li>Participation fee is 95€ for A.I.D.A members, 100€ for everyone else.
-        <li>If a participant does not appear for the competition his paid entry fee forfeits. Refund is not possible.
-        <li>The official language of this competition is English.
-        <li>Photo and video recordings are property of the organizer and will not be handed over. As a result of his registration, the athlete grants the organizer the permission to use all photographs and video recordings for advertising and educational purposes or to publish them.
-        <li>A.I.D.A will publish some personal data like name, gender, nationality or age (for instance for the ranking).
-        <li>Any other data submitted by the athlete will be stored by A.I.D.A. Austria until up to two years after the competition.
-        <li>If you have any question regarding the use of your data please <a href=\"mailto:competition@aida-austria.at\">contact us</a>.
-        <li>The organizer declines any liability. The participation is at the own risk of each individual.
-        <li>The number of participants is limited to 48 starting places (the ranking takes place after complete registration and transferred entry fee).
-        <li>If there are more than 48 registrations surplus participants will be placed on a waiting list and may move up if an athlete does not participate (of course, participants on the waiting list will receive a refund of the registration fee if there is no place left for them).
-        <li>The athlete has read and understood the <a target=\"_blank\" href=\"https://www.aidainternational.org/documents\">regulations</a> of AIDA.
-        <li>The athlete must sign the liability release and assumption of risk form available <a href=\"https://www.aidainternational.org/Organizer/OrganizersRegistrationFile/RR-92530TC_LIABILITY%20RELEASE%20AND%20ASSUMPTION%20OF%20RISK.pdf\">here</a>.
-        <!--<li><a href=\"#covid\" data-toggle=\"modal\" style=\"color:red;text-decoration:underline\"><b>Additional COVID-19 restrictions are accepted when submitting the registration. In case of changes of these rules we will inform all registered athletes via email.</b></a>-->
-
-    </ul>"
-
+        <li>Závod je pořádán dle pravidel AIDA.</li>
+        <li>Závodníci budou soutěžit v disciplínách STA a DYN. Výsledky obou disciplín se sčítají. Soutěží se v kategoriích nováčci (poprvé na závodech), ženy a muži.</li>
+        <li>Každý závodník musí doložit nejpozději v den závodu platný \"Medical exam\".</li>
+        <li>Výkony všech členů AIDA budou vedeny v oficiálním AIDA rankingu. Pokud závodník není veden jako AIDA člen, výkony závodníka budou zahrnuty v oficiální výsledkové listině, ale nebudou vedeny v AIDA rankingu.</li>
+"
 ---
