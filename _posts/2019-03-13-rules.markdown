@@ -11,7 +11,7 @@ ot-time:
 description: "
     <ul style=\"text-align:left\">
         <li>Závod je pořádán dle pravidel AIDA.</li>
-        <li>Závodníci budou soutěžit v disciplínách STA a DYN. Výsledky obou disciplín se sčítají. Soutěží se v kategoriích nováčci (poprvé na závodech), ženy a muži.</li>
+        <li>Závodníci budou soutěžit v disciplínách STA a DYN. Výsledky obou disciplín se sčítají. Soutěží se v kategoriích nováčci (poprvé na závodech), ženy a muži (a kategorie Masters pro Romana).</li>
         <li>Každý závodník musí doložit nejpozději v den závodu platný \"Medical exam\".</li>
         <li>Výkony všech členů AIDA budou vedeny v oficiálním AIDA rankingu. Pokud závodník není veden jako AIDA člen, výkony závodníka budou zahrnuty v oficiální výsledkové listině, ale nebudou vedeny v AIDA rankingu.</li>
 "

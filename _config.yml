@@ -13,14 +13,20 @@ people:
   pic: 1
   position: Organizer
 - name: Zdeňka Hildová
+  pic: 5
+  position: Rozhodčí
+- name: Vendula Strachotová
+  pic: 4
+  position: Rozhodčí
+- name: Michal Bavor
+  pic: 3
+  position: Rozhodčí
+- name: Daniel Doktor
   pic: 2
-  position: Vendula Strachotová
-- name: Já
-  pic: 2
-  position: Michal Bavor
-- name: Já
-  pic: 2
-  position: Daniel Doktor
+  position: Asistent
+- name: Ralph Staudigl
+  pic: 6
+  position: Rozhodčí
 
 # - name: Arno Mayrhofer
 #   pic: 2
@@ -57,7 +63,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: https://facebook.com/aida.austria
+    url: https://www.facebook.com/events/728533829204085
 
 # Postal address (add as many lines as necessary)
 address:
